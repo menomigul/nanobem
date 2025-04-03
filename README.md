@@ -10,15 +10,19 @@ This repository contains the **NANOBEM25 MATLAB toolbox** as provided in the sup
 
 The NANOBEM25 toolbox provides a MATLAB-based implementation of the **boundary element method (BEM)** tailored for simulating optical properties of nanostructures.
 
-In addition to core BEM functionality, this repository includes several **add-ons** developed for:
+In addition to core BEM functionality, this toolbox includes several **add-ons** developed for:
 
-- ⚙️ **Optical tweezers simulations** — based on extensions described in  
+- **Optical tweezers simulation** — based on extensions described in  
   [ACS Photonics 2015, 2, 1023–1030](https://pubs.acs.org/doi/10.1021/acsphotonics.5c00254)
 
-- 💡 **Optofluidic force induction (of2i)** modeling — covering the underlying physics as detailed in  
+- **Optofluidic force induction (of2i)** modeling — covering the underlying physics as detailed in  
   [Phys. Rev. Applied 19, 034041 (2023)](https://doi.org/10.1103/PhysRevApplied.19.034041)
 
-These enhancements make the toolbox suitable not only for nanoplasmonics research, but also for **optical trapping** and **particle characterization** in photonic experiments.
+- **Interference microscopy** - extending the capabilities of the toolbox to micrsocopy and imaging-related questions as reported in
+  [ACS Photonics 2024, 11, 2745-2756](https://pubs.acs.org/doi/10.1021/acsphotonics.4c00621)
+
+
+These enhancements make the toolbox suitable not only for nanoplasmonics research, but also for **optical trapping** and **particle characterization** in photonic experiments. 
 
 ---
 
