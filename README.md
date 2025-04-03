@@ -1,4 +1,4 @@
-# NANOBEM Toolbox Repository
+# NANOBEM
 
 This repository contains the **NANOBEM25 MATLAB toolbox** as provided in the supplementary information of the publication:
 
