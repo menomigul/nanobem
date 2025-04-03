@@ -12,6 +12,7 @@
 !*.txt
 !*.png
 !*.xml
+!*.py
 
 # Allow .gitignore and .md as the general README is a markdown file
 !README.md
