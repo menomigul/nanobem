@@ -18,7 +18,7 @@ In addition to core BEM functionality, this toolbox includes several **add-ons**
 - **Optofluidic force induction (of2i)** modeling — covering the underlying physics as detailed in  
   [Phys. Rev. Applied 19, 034041 (2023)](https://doi.org/10.1103/PhysRevApplied.19.034041)
 
-- **Interference microscopy** - extending the capabilities of the toolbox to micrsocopy and imaging-related questions as reported in
+- **Interference microscopy** - extending the capabilities of the toolbox to microscopy and imaging-related tasks often encountered in nanosensing as reported in
   [ACS Photonics 2024, 11, 2745-2756](https://pubs.acs.org/doi/10.1021/acsphotonics.4c00621)
 
 
