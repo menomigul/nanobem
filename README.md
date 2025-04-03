@@ -39,10 +39,7 @@ To get started:
 
 ## 📖 Citation
 
-If you use this toolbox in your work, please cite:
-
-- *U. Hohenester, ACS Photonics 2015* – [DOI: 10.1021/acsphotonics.5c00254](https://doi.org/10.1021/acsphotonics.5c00254)
-- *M. Šimić et al., Phys. Rev. Applied 19, 034041 (2023)* – [DOI: 10.1103/PhysRevApplied.19.034041](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.034041)
+If you use this toolbox in your work, please cite any one of the above-mentioned papers.
 
 ---
 
