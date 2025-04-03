@@ -1,0 +1,18 @@
+# This is a .gitignore file. The point in front of the filename is used to ensure that it is hidden.
+# This file tells git which files are tracked and which are ignored.
+
+# Ignore everything
+*
+
+# allow folder traversal
+!*/
+
+# Track only .m, .txt, .png, and .xml files
+!*.m
+!*.txt
+!*.png
+!*.xml
+
+# Allow .gitignore and .md as the general README is a markdown file
+!README.md
+!.gitignore
