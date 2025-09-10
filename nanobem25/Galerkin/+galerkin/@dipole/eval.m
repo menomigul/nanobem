@@ -11,7 +11,7 @@ function q = eval( obj, tau, k0, varargin )
 
 %  initialize potential integrator and split at PARENT positions
 pot = set( obj.pot, obj.pt, tau, varargin{ : } );
-pot = num2cell( pot );
+pot = mat2cell( pot );
 %  number of points and degrees of freedom 
 n1 = numel( obj.pt );
 n2 = ndof( tau );
